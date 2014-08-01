@@ -1,7 +1,7 @@
 Ball Maze
 ========
 
-HTML5 webapp built with Construct 2. Another game.
+HTML5 webapp built with Construct 2. Nice game.
 
 Guide the ball with tour finger/mouse till the end of the maze.
 
